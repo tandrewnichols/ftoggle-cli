@@ -36,6 +36,6 @@
   "homepage": "https://github.com/tandrewnichols/ftoggle-cli#readme",
   "dependencies": {
     "async": "^2.1.4",
-    "vorpal": "^1.11.4"
+    "vorpal": "^1.12.0"
   }
 }
